@@ -1,0 +1,164 @@
+.bos {
+    display: flex;
+    background-color: #2B3B37;
+    justify-content: space-between;
+    width: 95%;
+    margin: auto;
+    align-items: center;
+    height: 70px;
+}
+
+.text2 {
+    display: flex;
+    width: 40%;
+    justify-content: space-between;
+    font-size: 29px;
+    color: white;
+    margin-right: 40px;
+}
+
+.bos1 img {
+    width: 35px;
+    height: 35px;
+}
+
+.bos1 {
+    display: flex;
+    justify-content: end;
+    width: 95%;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.text1 {
+    text-align: center;
+    font-size: 35px;
+}
+
+.bos3 {
+    /* width: 95%;
+    margin: auto; */
+    background-color: #64686776;
+    height: 300px;
+}
+
+.bos2 {
+    background-image: url(./kaban.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 95%;
+    margin: auto;
+}
+
+.text3 {
+    width: 95%;
+    padding-top: 75px;
+    color: white;
+}
+
+.bos2 h1 {
+    text-align: end;
+}
+
+.boss {
+    width: 20%;
+    box-shadow: 0px 0px 2px 0px;
+    height: 280px;
+}
+
+.bos4 {
+    display: flex;
+    justify-content: space-around;
+    width: 95%;
+    margin: auto;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.nol {
+    text-align: center;
+    margin-top: 55px;
+}
+
+.nol1 {
+    text-align: center;
+    margin-top: 55px;
+}
+
+.text4 {
+    width: 17%;
+    color: white;
+    text-align: justify;
+    padding-left: 50px;
+    margin-top: 50px;
+}
+
+.text5 {
+    width: 17%;
+    color: white;
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+    padding-left: 35px;
+    padding-right: 35px;
+    text-align: justify;
+    height: 265px;
+    margin-top: 50px;
+}
+
+.text6 {
+    width: 17%;
+    color: white;
+    text-align: justify;
+    padding-left: 50px;
+    margin-top: 50px;
+}
+
+.boss1 {
+    width: 95%;
+    margin: auto;
+    background-color: #2B3B37;
+    display: flex;
+    justify-content: space-around;
+    height: 340px;
+}
+
+.nol2 {
+    text-align: center;
+}
+
+.boss2 img {
+    width: 850px;
+}
+
+.boss2 {
+    width: 72%;
+    margin: auto;
+}
+
+.boss2 button {
+    height: 40px;
+    margin-left: 280px;
+}
+
+.bos5 {
+    display: flex;
+    width: 95%;
+    margin: auto;
+    justify-content: space-around;
+    background-color: #2B3B37;
+    align-items: center;
+    color: white;
+    margin-top: 30px;
+}
+
+.m img {
+    width: 30px;
+    height: 30px;
+}
+
+.knop button {
+    border: none;
+    background-color: #2B3B37;
+}
+
+.knop {}
